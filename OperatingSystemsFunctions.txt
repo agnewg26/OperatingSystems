@@ -1,1 +1,2 @@
 An operating system manages the computer's resources, such as the central processing unit, memory, disk drives, and printers.
+Operating systems help establish a user interface
